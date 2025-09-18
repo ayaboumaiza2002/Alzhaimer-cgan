@@ -22,7 +22,6 @@ Utiliser un GAN conditionnel (cGAN) pour générer des données médicales synth
 5. Déploiement du modèle sous forme d'API Flask
 
 ## 📊 Résultats
-- Similarité statistique élevée entre données réelles et synthétiques 
 - Les classifieurs atteignent +90% de précision sur les données générées
 
 ## 👩‍💻 Réalisé par
