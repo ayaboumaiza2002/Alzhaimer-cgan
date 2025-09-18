@@ -19,7 +19,7 @@ Utiliser un GAN conditionnel (cGAN) pour générer des données médicales synth
 2. Entraînement d'un modèle cGAN sur les données réelles 
 3. Génération de nouvelles données synthétiques
 4. Évaluation des données générées à l'aide de classifieurs ML entraînés sur les données réelles
-5. Déploiement du modèle sous forme d'API Flask (optionnel)
+5. Déploiement du modèle sous forme d'API Flask
 
 ## 📊 Résultats
 - Similarité statistique élevée entre données réelles et synthétiques 
